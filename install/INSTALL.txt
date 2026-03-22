@@ -1,0 +1,39 @@
+Make sure that you add the 'buzzer' item to your selected inventory,
+as well as the image for the buzzer!
+
+
+
+--ox inventory item (ESX too)
+    ['buzzer'] = {
+        label = 'Buzzer',
+        weight = 100,
+        stack = false,
+        close = true,
+    },
+},
+--##qb_inventory (qb//qbox)
+		['buzzer'] = {
+		name = 'buzzer',
+		label = 'Buzzer',
+		weight = 100,
+		type = 'item',
+		image = 'buzzer.png',
+		unique = true, -- same as stack = false
+		useable = false,
+		shouldClose = true,
+		combinable = nil,
+		description = 'A device used to hack ATMs'
+	},
+
+--##qs_inventory 
+	['buzzer'] = {
+		name = 'buzzer',
+		label = 'Buzzer',
+		weight = 100,
+		type = 'item',
+		image = 'buzzer.png',
+		unique = true,
+		useable = false,
+		shouldClose = true,
+		description = 'A device used to hack ATMs'
+	},
