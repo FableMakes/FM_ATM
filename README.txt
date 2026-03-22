@@ -4,11 +4,11 @@ A fully modular ATM robbery system for FiveM.
 
 ##  Features
 
-* Framework agnostic (Qbox / QB / ESX)
-* Inventory agnostic (ox / qb / qs / esx)
+* Framework configurable (Qbox / QB / ESX)
+* Inventory configurable (ox / qb / qs / esx)
 * Dispatch support (tk / ps / cd / qs)
 * Target support (ox_target / qb-target)
-* PinCracker minigame
+* PinCracker minigame (bd-minigames)
 * Per-ATM cooldowns
 * Config-driven system
 * Hook system for easy extensions
