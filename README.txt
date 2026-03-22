@@ -2,7 +2,7 @@
 
 A fully modular ATM robbery system for FiveM.
 
-## ✨ Features
+##  Features
 
 * Framework agnostic (Qbox / QB / ESX)
 * Inventory agnostic (ox / qb / qs / esx)
