@@ -25,8 +25,8 @@ A fully modular ATM robbery system for FiveM.
 
 ## Requirements
 
-* ox_lib
-* bd-minigames
+* ox_lib (https://github.com/overextended/ox_lib)
+* bd-minigames (https://github.com/kristiyanpts/bd-minigames)
 * (optional) dispatch system
 * (optional) target system
 * (optional) inventory system
