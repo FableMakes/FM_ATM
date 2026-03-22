@@ -1,4 +1,4 @@
-# FM ATM Robbery (v8 Ultimate)
+# FM ATM Robbery
 
 A fully modular ATM robbery system for FiveM.
 
